@@ -1,4 +1,6 @@
 <img width="1181" height="295" alt="Cayme" src="https://github.com/user-attachments/assets/e3d57c38-352d-41d8-b54c-98d84f01f549" />
+
+---
 ## Hi! I'm Cayme Flach
 
 🎓 High school student at a Federal Institute in Brazil  
